@@ -1,24 +1,51 @@
-New
+Haitham Said
 block
 
-<h1 --- h6>
-<p> 
-<pre> 
-<hr> 
+<h1 --- h6></h1 --- h6>
+<p> </p> 
+<pre> </pre> 
+<hr /> 
+<ul></ul>
+<ol></ol>
+
+
+the most common used tag in html ( of type block element) is <div></div>
 
 
 
 
 inline block
+<span></span>
+<b></b>
+<strong></strong>
+<i> </i> 
+<em></em>
+<mark> </mark> 
+<small></small>
+<del> </del> 
+<s></s>
+<ins> </ins>
+<sub></sub>
+<sup></sup>
+<a href="url">link text</a>
+<img src="img_girl.jpg" alt="Girl in a jacket" />
+<iframe src="url" title="description"></iframe>
 
-<b>
-<strong>
-<i> 
-<em>
-<mark> 
-<small>
-<del> 
-<s>
-<ins> 
-<sub>
-<sup>
+
+
+
+
+
+
+
+Here are the block-level elements in HTML:
+
+
+
+<address><article><aside><blockquote><canvas><dd><div><dl><dt><fieldset><figcaption><figure><footer><form><h1>-<h6><header><hr><li><main><nav><noscript><ol><p><pre><section><table><tfoot><ul><video>
+
+
+
+Here are the inline elements in HTML:
+
+<a><abbr><acronym><b><bdo><big><br><button><cite><code><dfn><em><i><img><input><kbd><label><map><object><output><q><samp><script><select><small><span><strong><sub><sup><textarea><time><tt><var>
